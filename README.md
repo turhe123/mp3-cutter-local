@@ -100,6 +100,8 @@ If this saved you time, you can support the work on [Ko-fi](https://ko-fi.com/le
 
 See the rest at [turhe123.github.io/web-tools](https://turhe123.github.io/web-tools/).
 
+Also: [free, open-source Mac apps](https://turhe123.github.io/mac-apps/) built the same way, native Swift, no accounts, no telemetry.
+
 ## License
 
 MIT © Or Davidai Bachar
